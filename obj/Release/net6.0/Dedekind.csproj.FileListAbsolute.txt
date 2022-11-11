@@ -1,0 +1,15 @@
+D:\programming\c#\Dedekind\bin\Release\net6.0\Dedekind.exe
+D:\programming\c#\Dedekind\bin\Release\net6.0\Dedekind.deps.json
+D:\programming\c#\Dedekind\bin\Release\net6.0\Dedekind.runtimeconfig.json
+D:\programming\c#\Dedekind\bin\Release\net6.0\Dedekind.dll
+D:\programming\c#\Dedekind\bin\Release\net6.0\Dedekind.pdb
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.csproj.AssemblyReference.cache
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.AssemblyInfoInputs.cache
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.AssemblyInfo.cs
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.csproj.CoreCompileInputs.cache
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.dll
+D:\programming\c#\Dedekind\obj\Release\net6.0\refint\Dedekind.dll
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.pdb
+D:\programming\c#\Dedekind\obj\Release\net6.0\Dedekind.genruntimeconfig.cache
+D:\programming\c#\Dedekind\obj\Release\net6.0\ref\Dedekind.dll
